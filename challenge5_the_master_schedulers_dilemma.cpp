@@ -5,8 +5,8 @@ using namespace std;
 /*
 Asymptotic Analysis
 
-Time Complexity = O(2^n)
-Space Complexity = O(N)
+Time Complexity = O(N Log N)
+Space Complexity = O(1)
 
 */
 
