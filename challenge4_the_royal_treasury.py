@@ -2,7 +2,7 @@
 Asymptotic Analysis
 
 Time Complexity = O(N * totalSum)
-Space Complexity = O(N)
+Space Complexity = O(totalSum)
 
 """
 
