@@ -6,7 +6,7 @@ using namespace std;
 Asymptotic Analysis
 
 Time Complexity = O(N * S)
-Space Complexity = O(N)
+Space Complexity = O(S)
 
 */
 
